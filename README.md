@@ -1,1 +1,3 @@
-The hub website for the CookStack App!
+CookStack Website!
+
+This is the website hub for my CookStack Project!
