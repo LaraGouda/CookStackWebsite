@@ -25,7 +25,7 @@ const VideoSection = () => {
             <div className="relative aspect-video rounded-2xl overflow-hidden bg-secondary/20">
               <iframe
                 className="absolute inset-0 w-full h-full"
-                src="https://www.youtube.com/embed/zymodGWREro"
+                src="https://www.youtube.com/embed/53fJrpb1jpQ"
                 title="CookStack Project Video Walkthrough"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
